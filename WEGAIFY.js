@@ -1,4 +1,4 @@
-
+(function() {
     'use strict';
 
     // --- Configuration & Date Setup ---
